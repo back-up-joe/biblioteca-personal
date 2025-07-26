@@ -164,8 +164,7 @@
         "titulo": "Historia del comunismo en Chile. La era de Recabarren (1912-1924)",
         "autor": "Grez Toso, Sergio",
         "otrosAutores": [
-          "Pinto",
-          "Julio"
+          "Pinto, Julio"
         ],
         "anioPublicacion": 2014,
         "editorial": "LOM Ediciones",
@@ -186,8 +185,7 @@
         "titulo": "Cartas Inéditas. Correspondencia con Carlos Alberto Martinez, dirigente de la Federación Obrera de Chile",
         "autor": "Recabarren, Luis Emilio",
         "otrosAutores": [
-          "Gallardo Péfaur",
-          "Jorge"
+          "Gallardo Péfaur, Jorge"
         ],
         "anioPublicacion": 2019,
         "editorial": "Ediciones LER",
@@ -227,8 +225,7 @@
         "titulo": "Antología. Todo Marx en Píldoras",
         "autor": "Marx, Karl",
         "otrosAutores": [
-          "Sanchez",
-          "Luis Alberto"
+          "Sanchez, Luis Alberto"
         ],
         "anioPublicacion": 2018,
         "editorial": "Ediciones Espuela de Plata",
@@ -341,17 +338,282 @@
         "descripcion": "Investigación sobre la trayectoría del Partido Comunista de Chile entre los años 1990 y 2000.",
         "paginas": 387,
         "idioma": "Español"
+      },
+      {
+        "id": 18,
+        "uuid": "b6fe98a4-7176-4a5f-88cb-5a3b87860837",
+        "titulo": "La Danza de los Cuervos. El 'mocito' y el destino final de los detenidos desaparecidos",
+        "autor": "Rebolledo, Javier",
+        "otrosAutores": [],
+        "anioPublicacion": 2012,
+        "editorial": "Editorial Planeta Chilena",
+        "coleccion": "",
+        "genero": [
+          "Investigación"
+        ],
+        "isbn": "978-956-9963-39-1",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/danza-cuervos.jpeg",
+        "descripcion": "Narración de los tormentos ocurridos en el centro de detención Simón Bolivar.",
+        "paginas": 242,
+        "idioma": "Español"
+      },
+      {
+        "id": 19,
+        "uuid": "c6384671-32ae-4004-ab3d-bf3b112a3750",
+        "titulo": "El Despertar de los Cuervos. Tejas Verdes: El origen del exterminio en Chile",
+        "autor": "Rebolledo, Javier",
+        "otrosAutores": [],
+        "anioPublicacion": 2013,
+        "editorial": "Editorial Planeta Chilena",
+        "coleccion": "",
+        "genero": [
+          "Investigación"
+        ],
+        "isbn": "978-956-9963-74-2",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/despertar-cuervos.jpeg",
+        "descripcion": "Historias de tortura narradas por sus protagonistas. Dolorosos testimonios de violencia y muerte.",
+        "paginas": 340,
+        "idioma": "Español"
+      },
+      {
+        "id": 20,
+        "uuid": "a2d52833-da30-483a-b741-68073f5ccd05",
+        "titulo": "Desde abajo Desde arriba. De la resistencia a los gobiernos populares: escenarios y horizontes del cambio de época en América Latina",
+        "autor": "Arkonada, Katu",
+        "otrosAutores": [
+          "Klachko, Paula"
+        ],
+        "anioPublicacion": 2017,
+        "editorial": "Ventana Abierta Editores",
+        "coleccion": "",
+        "genero": [
+          "Política"
+        ],
+        "isbn": "978-956-8815-40-0",
+        "estado": "Leído",
+        "portada": "assets/img/portadas/abajo-arriba.jpeg",
+        "descripcion": "Recorrido social y político por Nuestra América y la mayor crisis del capitalismo conocida.",
+        "paginas": 305,
+        "idioma": "Español"
+      },
+      {
+        "id": 21,
+        "uuid": "3a441984-b59b-461c-869e-b09c1c6d4846",
+        "titulo": "Operación Exterminio. La represión contra los comunistas chilenos (1973-1976)",
+        "autor": "Hertz, Carmen",
+        "otrosAutores": [
+          "Ramírez, Apolonia",
+          "Salazar, Manuel"
+        ],
+        "anioPublicacion": 2016,
+        "editorial": "LOM Ediciones",
+        "coleccion": "Colección Nuevo Periodismo",
+        "genero": [
+          "Historia",
+          "Investigación"
+        ],
+        "isbn": "978-956-00-0827-5",
+        "estado": "Leído",
+        "portada": "assets/img/portadas/operacion-exterminio.jpeg",
+        "descripcion": "Represión a las dirigencias comunistas, resistencia política, escuadrones de la muerte con objetivos definidos desde el más alto nivel.",
+        "paginas": 392,
+        "idioma": "Español"
+      },
+      {
+        "id": 22,
+        "uuid": "b1dd4660-29f8-40d0-9c08-f4a504a7eed3",
+        "titulo": "Rati. Agente de La Oficina. La 'Pacificación' de la Democracia",
+        "autor": "Tótoro Taulis, Dauno",
+        "otrosAutores": [
+          "Rebolledo Escobar, Javier"
+        ],
+        "anioPublicacion": 2021,
+        "editorial": "Ceibo Ediciones",
+        "coleccion": "",
+        "genero": [
+          "Investigación"
+        ],
+        "isbn": "978-956-359-147-7",
+        "estado": "Leído",
+        "portada": "assets/img/portadas/rati.jpeg",
+        "descripcion": "Recuento desgarrador de un policía que estuvo en la primera línea de un oscura trama, operando desde las sombras.",
+        "paginas": 298,
+        "idioma": "Español"
+      },
+      {
+        "id": 23,
+        "uuid": "234d37cd-4c2c-444c-9222-37329ef24d2a",
+        "titulo": "Historia contemporánea de Chile I. Estado, legitimidad, ciudadanía",
+        "autor": "Salazar, Gabriel",
+        "otrosAutores": [
+          "Pinto, Julio"
+        ],
+        "anioPublicacion": 1999,
+        "editorial": "LOM Ediciones",
+        "coleccion": "",
+        "genero": [
+          "Historia"
+        ],
+        "isbn": "978-956-282-172-8",
+        "estado": "Leído",
+        "portada": "assets/img/portadas/historia-contemporanea-i.jpeg",
+        "descripcion": "Analiza la evolución del Estado, la legitimidad política y la ciudadanía en Chile desde una perspectiva crítica.",
+        "paginas": 315,
+        "idioma": "Español"
+      },
+      {
+        "id": 24,
+        "uuid": "8ab45847-7fe6-4b21-9ea4-b5485180a904",
+        "titulo": "Historia contemporánea de Chile II. Actores, identidad y movimiento",
+        "autor": "Salazar, Gabriel",
+        "otrosAutores": [
+          "Pinto, Julio"
+        ],
+        "anioPublicacion": 1999,
+        "editorial": "LOM Ediciones",
+        "coleccion": "",
+        "genero": [
+          "Historia"
+        ],
+        "isbn": "978-956-282-172-8",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/historia-contemporanea-ii.jpeg",
+        "descripcion": "Profundiza en los actores sociales, las identidades colectivas y los movimientos populares que configuran la historia de Chile.",
+        "paginas": 175,
+        "idioma": "Español"
+      },
+      {
+        "id": 25,
+        "uuid": "93d68d54-5f7a-4c60-b6b3-f7383a54f0fd",
+        "titulo": "Del poder constituyente de asalariados e intelectuales. Chile, siglos XX y XXI",
+        "autor": "Salazar, Gabriel",
+        "otrosAutores": [],
+        "anioPublicacion": 2009,
+        "editorial": "LOM Ediciones",
+        "coleccion": "",
+        "genero": [
+          "Historia"
+        ],
+        "isbn": "978-956-00-0114-6",
+        "estado": "Leído",
+        "portada": "assets/img/portadas/poder-constituyente",
+        "descripcion": "Examina los procesos históricos a través de los cuales el sentido social de la soberanía a tendido a constituirse y emerger.",
+        "paginas": 290,
+        "idioma": "Español"
+      },
+      {
+        "id": 26,
+        "uuid": "2d778dd6-4728-431e-a940-fc1790d534f8",
+        "titulo": "La violencia política popular en la 'Grandes Alamedas'. La violencia en Chile 1947-1987 (Una perspectiva histórico popular)",
+        "autor": "Salazar, Gabriel",
+        "otrosAutores": [
+          "Pinto, Julio"
+        ],
+        "anioPublicacion": 1990,
+        "editorial": "LOM Ediciones",
+        "coleccion": "",
+        "genero": [
+          "Historia"
+        ],
+        "isbn": "978-956-282-826-3",
+        "estado": "Leído",
+        "portada": "assets/img/portadas/violencia-politica",
+        "descripcion": "Inspección histórica del bajo pueblo y de sus manifestaciones en política. Se analiza la violencia política popular en Santiago.",
+        "paginas": 351,
+        "idioma": "Español"
+      },
+      {
+        "id": 27,
+        "uuid": "ba1b2ff8-5fca-4c04-853c-d241b38756ad",
+        "titulo": "Para una crítica del poder burocrático. Comunistas otra vez",
+        "autor": "Pérez Soto, Carlos",
+        "otrosAutores": [],
+        "anioPublicacion": 2001,
+        "editorial": "LOM Ediciones",
+        "coleccion": "Ciencias Humanas",
+        "genero": [
+          "Filosofía",
+          "Política"
+        ],
+        "isbn": "978-956-282-988-5",
+        "estado": "Leído",
+        "portada": "assets/img/portadas/comunistas-otra-vez.jpeg",
+        "descripcion": "Para volver a creer que la revolución es posible bajo nuevas perspectivas, bajo una nueva voluntad.",
+        "paginas": 223,
+        "idioma": "Español"
+      },
+      {
+        "id": 28,
+        "uuid": "e079000d-f2a9-42c0-8b15-573354be2b8e",
+        "titulo": "Hegemonía o supervivencia. La estrategia imperialista de Estados Unidos",
+        "autor": "Chomsky, Noam",
+        "otrosAutores": [],
+        "anioPublicacion": 2016,
+        "editorial": "Ediciones B",
+        "coleccion": "",
+        "genero": [
+          "Ensayo",
+          "Política"
+        ],
+        "isbn": "978-84-9070-226-0",
+        "estado": "Leído",
+        "portada": "assets/img/portadas/hegemonia-supervivencia.jpeg",
+        "descripcion": "Se expone cómo el control global norteamericano, desde el unilateralismo y el terrorismo de estado, ha apuntado a la hegemonía que amenaza la supervivencia.",
+        "paginas": 375,
+        "idioma": "Español"
+      },
+      {
+        "id": 29,
+        "uuid": "fe22873e-8c36-42bb-8484-14f8b123c1c9",
+        "titulo": "La vigencia de El manifiesto comunista",
+        "autor": "Žižek, Slavoj",
+        "otrosAutores": [],
+        "anioPublicacion": 2018,
+        "editorial": "Editorial Anagrama",
+        "coleccion": "Nuevos cuadernos anagrama",
+        "genero": [
+          "Filosofía",
+          "Política"
+        ],
+        "isbn": "978-84-339-1623-5",
+        "estado": "Leído",
+        "portada": "assets/img/portadas/vigencia-comunista.jpeg",
+        "descripcion": "Busca de dar una mirada productiva a los conflictos que nos acechan partiendo del texto de Marx y Engels.",
+        "paginas": 76,
+        "idioma": "Español"
+      },
+      {
+        "id": 30,
+        "uuid": "91411a2b-b053-4fab-bca8-6febdd427247",
+        "titulo": "El saqueo de los grupos económicos al Estado chileno",
+        "autor": "Mönckeberg, María Olivia",
+        "otrosAutores": [],
+        "anioPublicacion": 2015,
+        "editorial": "Penguin Random House Editorial",
+        "coleccion": "",
+        "genero": [
+          "Investigación"
+        ],
+        "isbn": "978-956-325-205-7",
+        "estado": "Disponible",
+        "portada": "assets/img/portadas/saqueo-economicos.jpeg",
+        "descripcion": "Las redes del poder en Chile son densas e intrincadas. Este es uno de los libros más representativos y esclarecedores para entender las fisuras que está dejando de manifiesto nuestro modelo político.",
+        "paginas": 304,
+        "idioma": "Español"
       }
     ],
     "metadata": {
-      "totalLibros": 17,
-      "totalPaginas": 5314,
+      "totalLibros": 30,
+      "totalPaginas": 9000,
       "decadas": {
         "1960s": 1,
         "1980s": 1,
-        "1990s": 3,
-        "2010s": 9,
-        "2020s": 3
+        "1990s": 6,
+        "2000s": 2,
+        "2010s": 16,
+        "2020s": 4
       },
       "estadisticas": {
         "porGenero": {
@@ -360,16 +622,19 @@
           "Crónica": 2,
           "Cuentos": 1,
           "Economía": 2,
-          "Filosofía": 3,
-          "Historia": 7,
-          "Investigación": 1,
+          "Ensayo": 1,
+          "Filosofía": 5,
+          "Historia": 12,
+          "Investigación": 6,
           "Militar": 1,
           "Novela": 2,
+          "Política": 4,
           "Psicología": 1
         },
         "porEditorial": {
-          "LOM Ediciones": 3,
+          "LOM Ediciones": 9,
           "Ediciones LER": 2,
+          "Editorial Planeta Chilena": 2,
           "Ediciones Promocionales": 1,
           "Editorial Planeta": 1,
           "Editorial Progreso - Moscú": 1,
@@ -381,18 +646,23 @@
           "Alianza Editorial": 1,
           "Editorial Letras Cubanas": 1,
           "LOM Ediciones / Punto Final": 1,
-          "Herder": 1
+          "Herder": 1,
+          "Ventana Abierta Editores": 1,
+          "Ceibo Ediciones": 1,
+          "Ediciones B": 1,
+          "Editorial Anagrama": 1,
+          "Penguin Random House Editorial": 1
         },
         "porEstado": {
-          "Disponible": 11,
-          "Leído": 6,
+          "Disponible": 15,
+          "Leído": 15,
           "Prestado": 0
         },
         "porIdioma": {
-          "Español": 17
+          "Español": 30
         },
         "sistemasIdentificacion": {
-          "conISBN": 15,
+          "conISBN": 28,
           "sinISBN": 2
         }
       }

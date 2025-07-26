@@ -86,7 +86,7 @@ def main():
             "uuid": libro_uuid, # Usamos el UUID generado o existente
             "titulo": row['Título'],
             "autor": row['Autor'],
-            "otrosAutores": [x.strip() for x in str(row['Otros Autores']).split(',')] if pd.notna(row['Otros Autores']) else [],
+            "otrosAutores": [x.strip() for x in str(row['Otros Autores']).split(';')] if pd.notna(row['Otros Autores']) else [],
             "anioPublicacion": int(row['Año de Publicación']),
             "editorial": row['Editorial'],
             "coleccion": row['Colección'] if pd.notna(row['Colección']) else "",
