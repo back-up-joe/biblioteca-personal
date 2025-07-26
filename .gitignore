@@ -1,0 +1,23 @@
+# Entorno virtual
+venv/
+venv-biblioteca/
+.env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyd
+*.pyo
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados
+*.xlsx
+*.log
+
+# Editor/IDE
+.vscode/
+.idea/
