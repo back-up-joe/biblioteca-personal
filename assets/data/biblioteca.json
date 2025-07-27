@@ -341,7 +341,7 @@
       },
       {
         "id": 18,
-        "uuid": "b6fe98a4-7176-4a5f-88cb-5a3b87860837",
+        "uuid": "333f41bf-d90a-4527-a9e4-a454b0fd7f23",
         "titulo": "La Danza de los Cuervos. El 'mocito' y el destino final de los detenidos desaparecidos",
         "autor": "Rebolledo, Javier",
         "otrosAutores": [],
@@ -360,7 +360,7 @@
       },
       {
         "id": 19,
-        "uuid": "c6384671-32ae-4004-ab3d-bf3b112a3750",
+        "uuid": "cb88a9f8-0b3a-4efb-8322-c141ec3b9bbd",
         "titulo": "El Despertar de los Cuervos. Tejas Verdes: El origen del exterminio en Chile",
         "autor": "Rebolledo, Javier",
         "otrosAutores": [],
@@ -379,7 +379,7 @@
       },
       {
         "id": 20,
-        "uuid": "a2d52833-da30-483a-b741-68073f5ccd05",
+        "uuid": "1d25573b-a2d0-4027-ae92-e62160cba210",
         "titulo": "Desde abajo Desde arriba. De la resistencia a los gobiernos populares: escenarios y horizontes del cambio de época en América Latina",
         "autor": "Arkonada, Katu",
         "otrosAutores": [
@@ -400,7 +400,7 @@
       },
       {
         "id": 21,
-        "uuid": "3a441984-b59b-461c-869e-b09c1c6d4846",
+        "uuid": "7fe9444c-ccb8-4e0e-a31c-cd6b4d815a5c",
         "titulo": "Operación Exterminio. La represión contra los comunistas chilenos (1973-1976)",
         "autor": "Hertz, Carmen",
         "otrosAutores": [
@@ -423,7 +423,7 @@
       },
       {
         "id": 22,
-        "uuid": "b1dd4660-29f8-40d0-9c08-f4a504a7eed3",
+        "uuid": "00a0ae95-a1ac-4e63-bf85-ee07d6d48a51",
         "titulo": "Rati. Agente de La Oficina. La 'Pacificación' de la Democracia",
         "autor": "Tótoro Taulis, Dauno",
         "otrosAutores": [
@@ -444,7 +444,7 @@
       },
       {
         "id": 23,
-        "uuid": "234d37cd-4c2c-444c-9222-37329ef24d2a",
+        "uuid": "669e1bbc-bb66-4b26-8af2-05a7497d9b3d",
         "titulo": "Historia contemporánea de Chile I. Estado, legitimidad, ciudadanía",
         "autor": "Salazar, Gabriel",
         "otrosAutores": [
@@ -465,7 +465,7 @@
       },
       {
         "id": 24,
-        "uuid": "8ab45847-7fe6-4b21-9ea4-b5485180a904",
+        "uuid": "705f8583-0253-4905-95a7-c57c1f30ec5c",
         "titulo": "Historia contemporánea de Chile II. Actores, identidad y movimiento",
         "autor": "Salazar, Gabriel",
         "otrosAutores": [
@@ -486,7 +486,7 @@
       },
       {
         "id": 25,
-        "uuid": "93d68d54-5f7a-4c60-b6b3-f7383a54f0fd",
+        "uuid": "b96c3389-bd05-4642-aa4c-7fd2fb23cfb7",
         "titulo": "Del poder constituyente de asalariados e intelectuales. Chile, siglos XX y XXI",
         "autor": "Salazar, Gabriel",
         "otrosAutores": [],
@@ -498,14 +498,14 @@
         ],
         "isbn": "978-956-00-0114-6",
         "estado": "Leído",
-        "portada": "assets/img/portadas/poder-constituyente",
+        "portada": "assets/img/portadas/poder-constituyente.jpeg",
         "descripcion": "Examina los procesos históricos a través de los cuales el sentido social de la soberanía a tendido a constituirse y emerger.",
         "paginas": 290,
         "idioma": "Español"
       },
       {
         "id": 26,
-        "uuid": "2d778dd6-4728-431e-a940-fc1790d534f8",
+        "uuid": "afb7f6cf-7577-4a0e-870a-e6756a4606f1",
         "titulo": "La violencia política popular en la 'Grandes Alamedas'. La violencia en Chile 1947-1987 (Una perspectiva histórico popular)",
         "autor": "Salazar, Gabriel",
         "otrosAutores": [
@@ -519,14 +519,14 @@
         ],
         "isbn": "978-956-282-826-3",
         "estado": "Leído",
-        "portada": "assets/img/portadas/violencia-politica",
+        "portada": "assets/img/portadas/violencia-politica.jpeg",
         "descripcion": "Inspección histórica del bajo pueblo y de sus manifestaciones en política. Se analiza la violencia política popular en Santiago.",
         "paginas": 351,
         "idioma": "Español"
       },
       {
         "id": 27,
-        "uuid": "ba1b2ff8-5fca-4c04-853c-d241b38756ad",
+        "uuid": "16c91e91-7f15-44a3-a906-4d9461490c41",
         "titulo": "Para una crítica del poder burocrático. Comunistas otra vez",
         "autor": "Pérez Soto, Carlos",
         "otrosAutores": [],
@@ -546,7 +546,7 @@
       },
       {
         "id": 28,
-        "uuid": "e079000d-f2a9-42c0-8b15-573354be2b8e",
+        "uuid": "7340e205-fbc7-4b9c-9adb-177bd69a7dac",
         "titulo": "Hegemonía o supervivencia. La estrategia imperialista de Estados Unidos",
         "autor": "Chomsky, Noam",
         "otrosAutores": [],
@@ -566,7 +566,7 @@
       },
       {
         "id": 29,
-        "uuid": "fe22873e-8c36-42bb-8484-14f8b123c1c9",
+        "uuid": "3179f1bf-9f60-4777-ada6-909a4d32bf7a",
         "titulo": "La vigencia de El manifiesto comunista",
         "autor": "Žižek, Slavoj",
         "otrosAutores": [],
@@ -586,7 +586,7 @@
       },
       {
         "id": 30,
-        "uuid": "91411a2b-b053-4fab-bca8-6febdd427247",
+        "uuid": "cad36bd4-cc38-48e6-bfad-98a5500acd13",
         "titulo": "El saqueo de los grupos económicos al Estado chileno",
         "autor": "Mönckeberg, María Olivia",
         "otrosAutores": [],
