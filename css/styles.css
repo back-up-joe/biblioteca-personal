@@ -27,3 +27,11 @@
   transition: transform 0.2s ease;
   box-shadow: 0 10px 20px rgba(0,0,0,0.1);
 }
+
+/* Pantallas pequeñas (menos de 768px) */
+@media (max-width: 576px) {
+  .img {
+    width: 184px;
+    height: 273px;
+  }
+}
