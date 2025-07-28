@@ -37,7 +37,7 @@ function renderBooks(libros) {
     `;
     
     const col = document.createElement('div');
-    col.className = 'col-6 col-sm-6 col-md-4 col-lg-3';
+    col.className = 'col-sm-6 col-md-4 col-lg-3';
 
     const card = `
       <div class="card h-100 shadow-sm">
