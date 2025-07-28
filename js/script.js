@@ -20,24 +20,35 @@ function showError(error) {
 
 // 2. Función para renderizar libros
 function renderBooks(libros) {
-  libros.sort((a, b) => b.anioPublicacion - a.anioPublicacion);
+
+  // Ordenar por autor (A-Z) y luego por año de publicación (más reciente primero)
+  libros.sort((a, b) => {
+    const authorCompare = a.autor.localeCompare(b.autor);
+    if (authorCompare !== 0) return authorCompare;
+    return b.anioPublicacion - a.anioPublicacion;
+  });
 
   libros.forEach(libro => {
     const portada = libro.portada || 'assets/img/portadas/default.jpg';
-    const estadoBadge = `<span class="badge ${libro.estado === 'Disponible' ? 'bg-success' : 'bg-secondary'}">${libro.estado}</span>`;
+    const estadoBadge = `
+      <div class="d-flex justify-content-end mb-2">
+        <span class="badge ${libro.estado === 'Disponible' ? 'bg-success' : 'bg-secondary'}">${libro.estado}</span>
+      </div>
+    `;
     
     const col = document.createElement('div');
-    col.className = 'col-sm-6 col-md-4 col-lg-3';
+    col.className = 'col-6 col-sm-6 col-md-4 col-lg-3';
 
     const card = `
       <div class="card h-100 shadow-sm">
         <img src="${portada}" class="portada card-img-top" 
              alt="Portada de ${libro.titulo}"
-             onerror="this.src='assets/img/portadas/default.jpg'">
+             onerror="this.src='assets/img/portadas/default.jpg'" style="height: 300px; width: 202px; padding-left: 12%; padding-top:12%;">
         <div class="card-body d-flex flex-column">
+          ${estadoBadge}
+          <br>
           <div class="d-flex justify-content-between align-items-start">
-            <h5 class="card-title">${libro.titulo}</h5>
-            ${estadoBadge}
+            <h5 class="card-title">${libro.titulo}</h5>            
           </div>
           <p class="card-text text-muted">${libro.autor}</p>
           <p class="card-text small mb-1">${libro.descripcion}</p>
